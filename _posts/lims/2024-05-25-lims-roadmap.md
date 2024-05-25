@@ -68,6 +68,8 @@ author: eric
 
 ## 3. Post-Testing
 
+### [Data Model][2]
+
 ### 3.1 Data Analysis and Report Generation
 - **Data Analysis Tools**: Provide tools for data analysis and visualization.
 - **Report Generation**: Automatically generate test result reports.
@@ -126,3 +128,4 @@ author: eric
 
 [0]: https://gclswhub.github.io/posts/lims-pretest/
 [1]: https://gclswhub.github.io/posts/lims-duringtest/
+[2]: https://gclswhub.github.io/posts/lims-posttest/

@@ -1,6 +1,6 @@
 ---
 title: LIMS System During-Testing Data Model
-date: 2024-05-25 14:22:00 +0900
+date: 2024-05-25 15:22:00 +0900
 categories: [LIMS, During-Testing]
 tags: [lims]     # TAG names should always be lowercase
 author: eric
