@@ -15,6 +15,8 @@ author: eric
 
 ## 1. Pre-Testing
 
+### [Data Model][0]
+
 ### 1.1 Sample Reception and Registration
 - **Sample Registration**: Generate and register unique identifiers for new samples.
 - **Sample Barcode Generation**: Generate barcodes for sample identification and tracking.
@@ -42,6 +44,8 @@ author: eric
 - **Timeline Management**: Manage and display timelines for each project process.
 
 ## 2. During Testing
+
+### [Data Model][1]
 
 ### 2.1 Test Execution
 - **Test Procedure Management**: Manage test procedures and protocols.
@@ -119,3 +123,6 @@ author: eric
 ### 4.7 Security and Audit
 - **Security Settings and User Access Control**: Manage system security settings and user access controls.
 - **Audit Trails and Log Management**: Manage audit trails and system logs.
+
+[0]: https://gclswhub.github.io/posts/lims-pretest/
+[1]: https://gclswhub.github.io/posts/lims-duringtest/
