@@ -1,6 +1,6 @@
 ---
 title: LIMS System Post-Testing Data Model
-date: 2024-05-25 15:52:00 +0900
+date: 2024-05-25 15:42:00 +0900
 categories: [LIMS, Post-Testing]
 tags: [lims]     # TAG names should always be lowercase
 author: eric
