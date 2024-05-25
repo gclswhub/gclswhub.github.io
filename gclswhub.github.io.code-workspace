@@ -4,5 +4,8 @@
 			"name": "gclswhub.github.io",
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"nuxt.isNuxtApp": false
+	}
 }
